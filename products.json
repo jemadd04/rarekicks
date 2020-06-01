@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "Nike Dunk Low SB Paris",
+        "price": 69950.00,
+        "image": { "fields": { "file": { "url": "./images/product-1.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "Nike Air MAG Back to the Future (2016)",
+        "price": 75000.00,
+        "image": { "fields": { "file": { "url": "./images/product-2.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "Air Jordan 4 Retro Eminem Carhartt",
+        "price": 14500.00,
+        "image": { "fields": { "file": { "url": "./images/product-3.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "Adidas Human Race NMD Pharrell x Chanel",
+        "price": 6999.00,
+        "image": { "fields": { "file": { "url": "./images/product-4.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "Nike Air Yeezy 2 Red October",
+        "price": 9100.00,
+        "image": { "fields": { "file": { "url": "./images/product-5.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "Air Jordan 4 Retro Eminem Encore 2017",
+        "price": 30000.00,
+        "image": { "fields": { "file": { "url": "./images/product-6.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "Air Jordan 11 Retro Premium Derek Jeter",
+        "price": 18000.00,
+        "image": { "fields": { "file": { "url": "./images/product-7.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "Nike Air Back to the Future (2011)",
+        "price": 13500.00,
+        "image": { "fields": { "file": { "url": "./images/product-8.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "9" },
+      "fields": {
+        "title": "Air Jordan 4 Retro Undefeated 2018 Sample",
+        "price": 27000.00,
+        "image": { "fields": { "file": { "url": "./images/product-9.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "10" },
+      "fields": {
+        "title": "Nike Dunk SB Low Yellow Lobster",
+        "price": 35000.00,
+        "image": { "fields": { "file": { "url": "./images/product-10.jpg" } } }
+      }
+    }
+  ]
+}
