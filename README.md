@@ -8,6 +8,6 @@ One-of-a-kind shoe store with the most expensive, hard to find shoes on the plan
 
 Data is fetched from local JSON file.
 
-Hosted on Netlify and can be found <a href="https://xenodochial-bassi-d0c654.netlify.com/" target="_blank">here</a>!
+Hosted on Github Pages and can be found <a href="https://jemadd04.github.io/rarekicks/" target="_blank">here</a>!
 
 ![](images/main-snippet.PNG)
